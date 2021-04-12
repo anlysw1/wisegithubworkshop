@@ -2,3 +2,6 @@
 # for WISE -- THIS IS SO MUCH FUN !!!" - Courtney Collins 
 
 # This is a new line. 
+
+
+dat <- read.csv("data/data.csv")
